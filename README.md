@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Aufar! 👋  
+*Fullstack Developer | Ex-Cadet Pilot ✈️*
 
-<!--
-**aufarabrari/aufarabrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Transforming flight checklists into clean, predictable code.  
+Currently building the *Aozora Ecosystem* — modular foundations for web, e-commerce, and ERP systems.
 
-Here are some ideas to get you started:
+- 🔭 *Current Project:* Aozora Hikari (Company Profile) & Aozora Kaato (E-Commerce)
+- 🎯 *Future Plan:* Aozora SkyView (ERP System)
+- 🌱 *Learning:* Next.js Architecture & Database Scaling
+- ⚡ *Fun fact:* I treat backend logic like a flight plan—precision is key.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*🛠️ Tech Stack*
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/muhammad-aufar-abrari-1811b9178)
