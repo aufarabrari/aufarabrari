@@ -16,6 +16,8 @@ Currently building the *Aozora Ecosystem* — modular foundations for web, e-com
 > ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 > ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 > ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+> ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+> ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)
 
 ## My LinkedIn Profile
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/muhammad-aufar-abrari-1811b9178)
